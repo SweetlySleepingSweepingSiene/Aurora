@@ -1,1 +1,3 @@
 const relaxationOptions=[{name:'Breathing',tag:'Slow things down.',img:''},{name:'Progressive Muscle Relaxation',tag:'Tense. Release. Repeat.',img:'',cls:'pmr'},{name:'Guided Positive Stuff',tag:'Give your brain something nicer to do.',img:''}];
+// images.js must run after app.js has built the UI, so load it once the page is complete.
+window.addEventListener('load',()=>{const s=document.createElement('script');s.src='images.js';document.body.appendChild(s)});
