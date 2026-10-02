@@ -1,0 +1,1 @@
+const relaxationOptions=[{name:'Breathing',tag:'Slow things down.',img:''},{name:'Progressive Muscle Relaxation',tag:'Tense. Release. Repeat.',img:'',cls:'pmr'},{name:'Guided Positive Stuff',tag:'Give your brain something nicer to do.',img:''}];
