@@ -1,0 +1,506 @@
+[
+  {
+    "category": "ui",
+    "name": "ambient",
+    "path": "ui/ambient.jpg",
+    "bytes": 7770
+  },
+  {
+    "category": "ui",
+    "name": "music-visualizer",
+    "path": "ui/music-visualizer.jpg",
+    "bytes": 6071
+  },
+  {
+    "category": "ui",
+    "name": "clock-faces",
+    "path": "ui/clock-faces.jpg",
+    "bytes": 7839
+  },
+  {
+    "category": "ui",
+    "name": "photo-album",
+    "path": "ui/photo-album.jpg",
+    "bytes": 9568
+  },
+  {
+    "category": "ui",
+    "name": "relaxation-assistant",
+    "path": "ui/relaxation-assistant.jpg",
+    "bytes": 7176
+  },
+  {
+    "category": "clockfaces",
+    "name": "alarm-classic",
+    "path": "clockfaces/alarm-classic.jpg",
+    "bytes": 10050
+  },
+  {
+    "category": "clockfaces",
+    "name": "alarm-info-bar",
+    "path": "clockfaces/alarm-info-bar.jpg",
+    "bytes": 12522
+  },
+  {
+    "category": "clockfaces",
+    "name": "alarm-stacked",
+    "path": "clockfaces/alarm-stacked.jpg",
+    "bytes": 10852
+  },
+  {
+    "category": "clockfaces",
+    "name": "alarm-cards",
+    "path": "clockfaces/alarm-cards.jpg",
+    "bytes": 11569
+  },
+  {
+    "category": "clockfaces",
+    "name": "alarm-extra-info",
+    "path": "clockfaces/alarm-extra-info.jpg",
+    "bytes": 14844
+  },
+  {
+    "category": "clockfaces",
+    "name": "flip-traditional",
+    "path": "clockfaces/flip-traditional.jpg",
+    "bytes": 10575
+  },
+  {
+    "category": "clockfaces",
+    "name": "flip-wide",
+    "path": "clockfaces/flip-wide.jpg",
+    "bytes": 11029
+  },
+  {
+    "category": "clockfaces",
+    "name": "flip-split-info",
+    "path": "clockfaces/flip-split-info.jpg",
+    "bytes": 12186
+  },
+  {
+    "category": "clockfaces",
+    "name": "flip-minimal",
+    "path": "clockfaces/flip-minimal.jpg",
+    "bytes": 10771
+  },
+  {
+    "category": "clockfaces",
+    "name": "flip-color-accent",
+    "path": "clockfaces/flip-color-accent.jpg",
+    "bytes": 13270
+  },
+  {
+    "category": "clockfaces",
+    "name": "nixie-classic",
+    "path": "clockfaces/nixie-classic.jpg",
+    "bytes": 14373
+  },
+  {
+    "category": "clockfaces",
+    "name": "nixie-with-date",
+    "path": "clockfaces/nixie-with-date.jpg",
+    "bytes": 13249
+  },
+  {
+    "category": "clockfaces",
+    "name": "nixie-full-info",
+    "path": "clockfaces/nixie-full-info.jpg",
+    "bytes": 14153
+  },
+  {
+    "category": "clockfaces",
+    "name": "nixie-minimal",
+    "path": "clockfaces/nixie-minimal.jpg",
+    "bytes": 12736
+  },
+  {
+    "category": "clockfaces",
+    "name": "nixie-modern-hybrid",
+    "path": "clockfaces/nixie-modern-hybrid.jpg",
+    "bytes": 13665
+  },
+  {
+    "category": "clockfaces",
+    "name": "analog-clean",
+    "path": "clockfaces/analog-clean.jpg",
+    "bytes": 8830
+  },
+  {
+    "category": "clockfaces",
+    "name": "analog-modern",
+    "path": "clockfaces/analog-modern.jpg",
+    "bytes": 12065
+  },
+  {
+    "category": "clockfaces",
+    "name": "analog-classic",
+    "path": "clockfaces/analog-classic.jpg",
+    "bytes": 12642
+  },
+  {
+    "category": "clockfaces",
+    "name": "analog-minimal",
+    "path": "clockfaces/analog-minimal.jpg",
+    "bytes": 10432
+  },
+  {
+    "category": "clockfaces",
+    "name": "analog-full-info",
+    "path": "clockfaces/analog-full-info.jpg",
+    "bytes": 12509
+  },
+  {
+    "category": "clockfaces",
+    "name": "minimal-clean-text",
+    "path": "clockfaces/minimal-clean-text.jpg",
+    "bytes": 6716
+  },
+  {
+    "category": "clockfaces",
+    "name": "minimal-thin",
+    "path": "clockfaces/minimal-thin.jpg",
+    "bytes": 6888
+  },
+  {
+    "category": "clockfaces",
+    "name": "minimal-subtle",
+    "path": "clockfaces/minimal-subtle.jpg",
+    "bytes": 6005
+  },
+  {
+    "category": "clockfaces",
+    "name": "minimal-corner",
+    "path": "clockfaces/minimal-corner.jpg",
+    "bytes": 5912
+  },
+  {
+    "category": "clockfaces",
+    "name": "minimal-typographic",
+    "path": "clockfaces/minimal-typographic.jpg",
+    "bytes": 7321
+  },
+  {
+    "category": "visualizers",
+    "name": "spectral-bloom",
+    "path": "visualizers/spectral-bloom.jpg",
+    "bytes": 58005
+  },
+  {
+    "category": "visualizers",
+    "name": "warp-speed",
+    "path": "visualizers/warp-speed.jpg",
+    "bytes": 75177
+  },
+  {
+    "category": "visualizers",
+    "name": "sonic-whirlpool",
+    "path": "visualizers/sonic-whirlpool.jpg",
+    "bytes": 96235
+  },
+  {
+    "category": "visualizers",
+    "name": "kaleidarchy",
+    "path": "visualizers/kaleidarchy.jpg",
+    "bytes": 45076
+  },
+  {
+    "category": "visualizers",
+    "name": "disco-biscuit",
+    "path": "visualizers/disco-biscuit.jpg",
+    "bytes": 42337
+  },
+  {
+    "category": "visualizers",
+    "name": "bouncy-mountains",
+    "path": "visualizers/bouncy-mountains.jpg",
+    "bytes": 29997
+  },
+  {
+    "category": "scenes",
+    "name": "fireplace-cozy-cabin",
+    "path": "scenes/fireplace-cozy-cabin.jpg",
+    "bytes": 27369
+  },
+  {
+    "category": "scenes",
+    "name": "fireplace-modern-home",
+    "path": "scenes/fireplace-modern-home.jpg",
+    "bytes": 22179
+  },
+  {
+    "category": "scenes",
+    "name": "fireplace-library",
+    "path": "scenes/fireplace-library.jpg",
+    "bytes": 26921
+  },
+  {
+    "category": "scenes",
+    "name": "snow-cabin-in-snow",
+    "path": "scenes/snow-cabin-in-snow.jpg",
+    "bytes": 35679
+  },
+  {
+    "category": "scenes",
+    "name": "snow-snowy-forest",
+    "path": "scenes/snow-snowy-forest.jpg",
+    "bytes": 36092
+  },
+  {
+    "category": "scenes",
+    "name": "snow-mountain-view",
+    "path": "scenes/snow-mountain-view.jpg",
+    "bytes": 29453
+  },
+  {
+    "category": "scenes",
+    "name": "rain-city-window",
+    "path": "scenes/rain-city-window.jpg",
+    "bytes": 29131
+  },
+  {
+    "category": "scenes",
+    "name": "rain-porch",
+    "path": "scenes/rain-porch.jpg",
+    "bytes": 31428
+  },
+  {
+    "category": "scenes",
+    "name": "rain-garden",
+    "path": "scenes/rain-garden.jpg",
+    "bytes": 35088
+  },
+  {
+    "category": "scenes",
+    "name": "thunderstorm-lakeside",
+    "path": "scenes/thunderstorm-lakeside.jpg",
+    "bytes": 22484
+  },
+  {
+    "category": "scenes",
+    "name": "thunderstorm-country-home",
+    "path": "scenes/thunderstorm-country-home.jpg",
+    "bytes": 24320
+  },
+  {
+    "category": "scenes",
+    "name": "thunderstorm-coastal",
+    "path": "scenes/thunderstorm-coastal.jpg",
+    "bytes": 24564
+  },
+  {
+    "category": "scenes",
+    "name": "ocean-calm-waves",
+    "path": "scenes/ocean-calm-waves.jpg",
+    "bytes": 26244
+  },
+  {
+    "category": "scenes",
+    "name": "ocean-rocky-shore",
+    "path": "scenes/ocean-rocky-shore.jpg",
+    "bytes": 28736
+  },
+  {
+    "category": "scenes",
+    "name": "ocean-tropical",
+    "path": "scenes/ocean-tropical.jpg",
+    "bytes": 30408
+  },
+  {
+    "category": "scenes",
+    "name": "brook-forest-stream",
+    "path": "scenes/brook-forest-stream.jpg",
+    "bytes": 38202
+  },
+  {
+    "category": "scenes",
+    "name": "brook-woodland",
+    "path": "scenes/brook-woodland.jpg",
+    "bytes": 39990
+  },
+  {
+    "category": "scenes",
+    "name": "brook-mountain-brook",
+    "path": "scenes/brook-mountain-brook.jpg",
+    "bytes": 36299
+  },
+  {
+    "category": "scenes",
+    "name": "summer-dawn-lakeside",
+    "path": "scenes/summer-dawn-lakeside.jpg",
+    "bytes": 29624
+  },
+  {
+    "category": "scenes",
+    "name": "summer-dawn-countryside",
+    "path": "scenes/summer-dawn-countryside.jpg",
+    "bytes": 27794
+  },
+  {
+    "category": "scenes",
+    "name": "summer-dawn-mountain",
+    "path": "scenes/summer-dawn-mountain.jpg",
+    "bytes": 24439
+  },
+  {
+    "category": "scenes",
+    "name": "summer-dusk-lakeside",
+    "path": "scenes/summer-dusk-lakeside.jpg",
+    "bytes": 29718
+  },
+  {
+    "category": "scenes",
+    "name": "summer-dusk-countryside",
+    "path": "scenes/summer-dusk-countryside.jpg",
+    "bytes": 25517
+  },
+  {
+    "category": "scenes",
+    "name": "summer-dusk-coastal",
+    "path": "scenes/summer-dusk-coastal.jpg",
+    "bytes": 26630
+  },
+  {
+    "category": "scenes",
+    "name": "aquarium-community-tank",
+    "path": "scenes/aquarium-community-tank.jpg",
+    "bytes": 34915
+  },
+  {
+    "category": "scenes",
+    "name": "aquarium-coral-reef",
+    "path": "scenes/aquarium-coral-reef.jpg",
+    "bytes": 38506
+  },
+  {
+    "category": "scenes",
+    "name": "aquarium-angelfish",
+    "path": "scenes/aquarium-angelfish.jpg",
+    "bytes": 35144
+  },
+  {
+    "category": "scenes",
+    "name": "aquarium-jellyfish",
+    "path": "scenes/aquarium-jellyfish.jpg",
+    "bytes": 23919
+  },
+  {
+    "category": "scenes",
+    "name": "aquarium-planted-tank",
+    "path": "scenes/aquarium-planted-tank.jpg",
+    "bytes": 34749
+  },
+  {
+    "category": "scenes",
+    "name": "aquarium-koi-pond",
+    "path": "scenes/aquarium-koi-pond.jpg",
+    "bytes": 31137
+  },
+  {
+    "category": "photos",
+    "name": "photo-01",
+    "path": "photos/photo-01.jpg",
+    "bytes": 32901
+  },
+  {
+    "category": "photos",
+    "name": "photo-02",
+    "path": "photos/photo-02.jpg",
+    "bytes": 31875
+  },
+  {
+    "category": "photos",
+    "name": "photo-03",
+    "path": "photos/photo-03.jpg",
+    "bytes": 24981
+  },
+  {
+    "category": "photos",
+    "name": "photo-04",
+    "path": "photos/photo-04.jpg",
+    "bytes": 41881
+  },
+  {
+    "category": "photos",
+    "name": "photo-05",
+    "path": "photos/photo-05.jpg",
+    "bytes": 30924
+  },
+  {
+    "category": "photos",
+    "name": "photo-06",
+    "path": "photos/photo-06.jpg",
+    "bytes": 25655
+  },
+  {
+    "category": "photos",
+    "name": "photo-07",
+    "path": "photos/photo-07.jpg",
+    "bytes": 28850
+  },
+  {
+    "category": "photos",
+    "name": "photo-08",
+    "path": "photos/photo-08.jpg",
+    "bytes": 23548
+  },
+  {
+    "category": "photos",
+    "name": "photo-09",
+    "path": "photos/photo-09.jpg",
+    "bytes": 25260
+  },
+  {
+    "category": "photos",
+    "name": "photo-10",
+    "path": "photos/photo-10.jpg",
+    "bytes": 48516
+  },
+  {
+    "category": "photos",
+    "name": "photo-11",
+    "path": "photos/photo-11.jpg",
+    "bytes": 36828
+  },
+  {
+    "category": "photos",
+    "name": "photo-12",
+    "path": "photos/photo-12.jpg",
+    "bytes": 25652
+  },
+  {
+    "category": "photos",
+    "name": "photo-13",
+    "path": "photos/photo-13.jpg",
+    "bytes": 28119
+  },
+  {
+    "category": "photos",
+    "name": "photo-14",
+    "path": "photos/photo-14.jpg",
+    "bytes": 25415
+  },
+  {
+    "category": "photos",
+    "name": "photo-15",
+    "path": "photos/photo-15.jpg",
+    "bytes": 37291
+  },
+  {
+    "category": "relaxation",
+    "name": "breathing",
+    "path": "relaxation/breathing.jpg",
+    "bytes": 59776
+  },
+  {
+    "category": "relaxation",
+    "name": "progressive-muscle-relaxation",
+    "path": "relaxation/progressive-muscle-relaxation.jpg",
+    "bytes": 58855
+  },
+  {
+    "category": "relaxation",
+    "name": "guided-positive-stuff",
+    "path": "relaxation/guided-positive-stuff.jpg",
+    "bytes": 63522
+  }
+]
