@@ -31,7 +31,7 @@
  {name:'Santa Monica',subtitle:'Beach Cam · Coming soon',emoji:'🏖️'}
  ];
  const list=document.getElementById('natureCamList');
- cams.forEach((cam,i)=>{const tile=document.createElement('button');tile.type='button';tile.className='scene natureCamTile '+(cam.active?'isDemo':'isPending');tile.setAttribute('aria-label',cam.name+' — '+cam.subtitle);const label=document.createElement('div');label.className='sceneLabel';label.textContent=cam.emoji+' '+cam.name;const small=document.createElement('small');small.textContent=cam.subtitle;label.appendChild(small);tile.appendChild(label);tile.addEventListener('click',()=>{if(!cam.active){toastMsg(cam.name+' — coming soon');return}document.getElementById('natureCamFrame').src=cam.url;show('naturecam')});list.appendChild(tile)});
+ cams.forEach((cam,i)=>{const tile=document.createElement('button');tile.type='button';tile.className='scene natureCamTile '+(cam.active?'isDemo':'isPending');tile.setAttribute('aria-label',cam.name+' — '+cam.subtitle);const label=document.createElement('div');label.className='sceneLabel';label.textContent=cam.emoji+' '+cam.name;const small=document.createElement('small');small.textContent=cam.subtitle;label.appendChild(small);tile.appendChild(label);tile.addEventListener('click',()=>{if(!cam.active){toastMsg(cam.name+' — coming soon');return}document.getElementById('natureCamFrame').src='https://www.youtube-nocookie.com/embed/H59B9Uoewwg?playsinline=1&rel=0';show('naturecam')});list.appendChild(tile)});
  const originalShow=window.show;window.show=function(id){if(id!=='naturecam'){const f=document.getElementById('natureCamFrame');if(f&&f.getAttribute('src'))f.removeAttribute('src')}return originalShow(id)};
 })();
 </script></body></html>
