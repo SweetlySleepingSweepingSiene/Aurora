@@ -27,10 +27,15 @@
  const cams=[
  {name:'Pacific Aquarium',subtitle:'Tropical Reef · Live feed',videoId:'H59B9Uoewwg',active:true,emoji:'🐠'},
  {name:'Colorful Coral & Fish',subtitle:'Aquarium of the Pacific · Live',videoId:'h0F818upkgI',active:true,emoji:'🪸'},
- {name:'Utopia Village',subtitle:'Underwater Coral · Coming soon',emoji:'🪸'},
- {name:'Service Puppy Cam',subtitle:'Full House · Coming soon',emoji:'🐶'},
- {name:'OrcaLab',subtitle:'Rubbing Beach · Coming soon',emoji:'🌊'},
- {name:'Santa Monica',subtitle:'Beach Cam · Coming soon',emoji:'🏖️'}
+ {name:'Brooks Falls',subtitle:'Katmai National Park · Bears',videoId:'J7ZrIDvqlic',active:true,emoji:'🐻'},
+ {name:'Banzai Pipeline',subtitle:'Oahu · Surf Cam',videoId:'Fp7l8XASb9Y',active:true,emoji:'🏄'},
+ {name:'Utopia Village',subtitle:'Edge-of-Wall Underwater Reef',videoId:'Sq-X4Ga1oyc',active:true,emoji:'🪸'},
+ {name:'OrcaLab',subtitle:'Strider Rubbing Beach · Orcas',videoId:'iWyTu_0znB4',active:true,emoji:'🐋'},
+ {name:'Service Puppy Cam',subtitle:'Warrior Canine Connection · Full House',videoId:'Qeq2Kax0v64',active:true,emoji:'🐶'},
+ {name:'Tropical Reef Camera',subtitle:'Underwater Reef · Explore.org',videoId:'DHUnz4dyb54',active:true,emoji:'🐠'},
+ {name:'Santa Monica',subtitle:'Beach & Pier · California',videoId:'v97JpT3ZA0w',active:true,emoji:'🏖️'},
+ {name:'Pacific Flyway',subtitle:'Sacramento Wildlife Refuge · Birds',videoId:'1aPhtRjjzb0',active:true,emoji:'🦆'},
+ {name:'Mount Rainier',subtitle:'Wildflowers & Sunset · Nature Sounds',videoId:'nslC27nST-Y',active:true,emoji:'🌸'}
  ];
  const list=document.getElementById('natureCamList');
  cams.forEach((cam,i)=>{const tile=document.createElement('button');tile.type='button';tile.className='scene natureCamTile '+(cam.active?'isDemo':'isPending');tile.setAttribute('aria-label',cam.name+' — '+cam.subtitle);const label=document.createElement('div');label.className='sceneLabel';label.textContent=cam.emoji+' '+cam.name;const small=document.createElement('small');small.textContent=cam.subtitle;label.appendChild(small);tile.appendChild(label);tile.addEventListener('click',()=>{if(!cam.active){toastMsg(cam.name+' — coming soon');return}document.getElementById('natureCamTitle').textContent=cam.name;document.getElementById('natureCamDescription').textContent=cam.subtitle+' · YouTube via Explore.org';document.getElementById('natureCamExternal').href='https://www.youtube.com/watch?v='+cam.videoId;const player=document.getElementById('natureCamFrame');player.title=cam.name+' live stream';player.src='https://www.youtube-nocookie.com/embed/'+cam.videoId+'?playsinline=1&rel=0';show('naturecam')});list.appendChild(tile)});
